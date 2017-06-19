@@ -243,6 +243,11 @@
     "name": "serverless-plugin-encode-env-var-objects",
     "description": "Serverless plugin to encode any environment variable objects.",
     "githubUrl": "https://github.com/yonomi/serverless-plugin-encode-env-var-objects"
+  },  
+  {
+    "name": "serverless-plugin-encrypted",
+    "description": "erverless plugin which encrypts Lambda environment variables using an KMS key which is automatically generated for each stage.",
+    "githubUrl": "https://github.com/nalbion/serverless-plugin-encrypted"
   },
   {
     "name": "serverless-dir-config-plugin",
